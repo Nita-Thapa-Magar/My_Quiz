@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "305562992883",
+    "firebase_url": "https://quiz-app-ceb1c.firebaseio.com",
+    "project_id": "quiz-app-ceb1c",
+    "storage_bucket": "quiz-app-ceb1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305562992883:android:5b66c021743d72591fb786",
+        "android_client_info": {
+          "package_name": "com.codingapp.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305562992883-sa7vts07jp7ei5dibsg7jhtc435nqsdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCioW0ukcAM70spIO-1st_GdpTvk_inE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305562992883-sa7vts07jp7ei5dibsg7jhtc435nqsdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
